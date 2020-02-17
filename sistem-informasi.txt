@@ -2,3 +2,5 @@ ini adalah info
 1. jurusan
 2. ukm
 3. himpunan
+4. jadwal pelajaran
+5. pendaftaran
